@@ -5,10 +5,10 @@
 
 - Get *[Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)* source code
 
-- Switch to a655fde98089ad949f1d131cb6d627d70bb5159e 
+- Switch to 15b38d71df24932087005606f1b30ac4f4c03133 
 
   ```
-  git checkout a655fde98089ad949f1d131cb6d627d70bb5159e
+  git checkout 15b38d71df24932087005606f1b30ac4f4c03133
   ```
 
 - patch
